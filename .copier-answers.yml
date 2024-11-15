@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 4.0.2
+_src_path: gh:epics-containers/services-template-helm
+cluster_name: local
+cluster_namespace: t03-beamline
+cluster_type: ''
+description: t03 IOC Instances and Services
+git_platform: github.com
+github_org: PelloUsabiaga
+ioc_group: t03
+location: bl03t
+logging_url: ''
+repo_uri: https://github.com/PelloUsabiaga/t03-services
